@@ -1,0 +1,6 @@
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\obj\Debug\guessNumber.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\bin\Debug\guessNumber.exe.config
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\bin\Debug\guessNumber.exe
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\bin\Debug\guessNumber.pdb
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\obj\Debug\guessNumber.exe
+D:\Users\Won\Desktop\作品彙整\guessNumber\guessNumber\obj\Debug\guessNumber.pdb
